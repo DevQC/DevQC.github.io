@@ -1,12 +1,1 @@
-/**
-demo.mg
-*/
-
-class AppDelegate:UIResponder{
-
-- (void)setMainVC{
-NSURL *url = NSURL.URLWithString:@"https://www.baidu.com";
-SFSafariViewController *safariVC = SFSafariViewController.alloc.initWithURL:url;
-self.window.rootViewController = safariVC;
-}
-
+bhJlfOG5oVtx/NYNihVScEacsp4PnV0ur7wztDLVVPpIl4HO6Z1on1EkFgTcWh1T8hYBGYvJb+6GLAZvEBp7CY58T/UV3tD7aRJ4JOYIRWg5hn5YPg6x/WqScOHPQE66canrFdhhQdoRj6V8Ylis1LqophlvdWOrQPxFTXh7nXk3ve1Ih7/fpXjpulA4g8P3vgdUP7q4ZFJorbldkNRtG1Vps37SOJ0asDq1ozhcba8PPkec3TifFQdYBe/JwCl+xKH+LnoU/3eRD43kcJ3lonvavDH0aK8uAvyuqTKu3ew6ddleICkXyRiGgJZQsSK+Navk7eoDtEwCC5jhiz8ysgEFyZOCqk4AlpNxdUxKql4sOkYNtm97bWrQoJePgah2A9i+J6xAnUNgioA4wmPk9sjjhABNI2ACZm+rSsZ24ltHlgP2gfmZlTLUYzZNC4d3UsC2aA2Yf4GuLp6OqlmWR5Ha7j6Lbi4tifCAmixZHhHvSXaw3DxIkLl2TfklL9nD
